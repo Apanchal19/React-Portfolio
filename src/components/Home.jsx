@@ -29,7 +29,7 @@ const Home = () => {
              
                 I have 2 years of experience building and desgining software.
                 Currently, I love to work on web application using technologies like
-                React, Tailwind, Express, Node.
+                React, Tailwind, Express, Node for the front end and Java, Spring Boot, PHP for the back end.
                 {/* para element end about myself and skills, Less than 5 lines and expertise */}
                 </p>
                 {/* After paragah the div for linking the portfolio */}
