@@ -19,7 +19,7 @@ const Home = () => {
                 <h2 
                     className="text-4xl sm:text-5xl font-bold text-gray-100">
                     
-                    <br/><br/>I'm a full stack developer
+                    <br/><br/>Hi there, I'm a software developer
                 
                 {/* Ending for my role and experience */}
                 </h2>
@@ -27,9 +27,9 @@ const Home = () => {
                 <p 
                     className='py-4 max-w-md text-gray-300'>
              
-                I have 2 years of experience building and desgining software.
+                I have more than 2 years of experience building and desgining software.
                 Currently, I love to work on web application using technologies like
-                React, Tailwind, Express, Node for the front end and Java, Spring Boot, PHP for the back end.
+                React, CSS Tailwind, Express, Node for the front end and Node, Java, Spring Boot, PHP for the back end.
                 {/* para element end about myself and skills, Less than 5 lines and expertise */}
                 </p>
                 {/* After paragah the div for linking the portfolio */}
